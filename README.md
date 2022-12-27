@@ -18,9 +18,9 @@ This data analysis and data visualization project is for a fictitous software co
 * **Power View**
 
 ### Data Sources
-* **Software Sales Pipeline Forecast Data for 2021 from company's Salesforce CRM
-* **Historical software sales pipeline data from the company's Salesforce CRM
-* **Data from Salesforce was extracted and relevant tables merged in an excel workbook. 
+* **Software Sales Pipeline Forecast Data for 2021 from company's Salesforce CRM**
+* **Historical software sales pipeline data from the company's Salesforce CRM**
+* **Data from Salesforce was extracted and relevant tables merged in an excel workbook.**
 
 #### Power BI Data Storage Mode: Import
 
