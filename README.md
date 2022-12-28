@@ -38,7 +38,8 @@ The Marketing Manager and the Finance Manager have requested that 3 reports be c
 
 ### Open Software Sales Pipeline 2021
 - Click [here](https://github.com/Jennie-Techie/Software_Sales_Pipeline_Report/blob/1ea32e70dd965a76008237b62c164aa9cf265dae/Software%20Sales%20Pipeline%202021%20Report.pbix) to view the Pbix file containing all 3 reports. 
-- Click [here](https://github.com/Jennie-Techie/Software_Sales_Pipeline_Report/blob/1ea32e70dd965a76008237b62c164aa9cf265dae/Win%20Rate%20Analysis.pbix) to view the win rate analysis. 
+- Click [here](https://github.com/Jennie-Techie/Software_Sales_Pipeline_Report/blob/1ea32e70dd965a76008237b62c164aa9cf265dae/Win%20Rate%20Analysis.pbix) to view the Win Rate Analysis. 
+- Click [here](https://github.com/Jennie-Techie/Software_Sales_Pipeline_Report/blob/b1e9f77cde6e17f591a43554d01f1cbee9e8b2a2/Jennifer%20Esharegharan%20Sales%20Pipeline%20Reporting%20Presentation.pptx) to view the PowerPoint Presentation slides.
 
 ### Report 1: This report shows the quaterly and monthly software pipeline dollars for all open sales opportunity with forecast category of 'Pipeline, Best Case and Commit' in 2021 forecast.
 ![Dashboard1](https://github.com/Jennie-Techie/Software_Sales_Pipeline_Report/blob/1ea32e70dd965a76008237b62c164aa9cf265dae/Images/Software%20Sales%20Pipeline%202021%20Report%201.jpg)
